@@ -2,7 +2,7 @@
 > **Authors:**
 > [*Zijian Wu*]
 > [*Ziqiang Wang*]
-> [*Ju lu*]
+> [*Ju Lu*]
 > [*Jing Han*]
 > [*Lianfa Bai*]
 > [*Yi Zhang*]
