@@ -47,7 +47,36 @@ Automatic weld seam detection is a cornerstone of intelligent manufacturing, yet
 
 ### 3.1. Training/Testing
 
+The training and testing experiments are conducted using [PyTorch](https://github.com/pytorch/pytorch) with one NVIDIA 3090 GPU with 24 GB memory.
 
+1. Configuring your environment (Prerequisites):
+    
+    + Installing necessary packages: `pip install -r requirements.txt`.
+
+1. Downloading necessary data:
+
+    + To obtain the necessary training and testing data, please contact zhaozhuang@njust.edu.cn and move it into `./Data/`.
+   
+    + To obtain the  pretrained weights, please contact zhaozhuang@njust.edu.cn and move it into `./Checkpoint/SPNet/`.
+
+    
+
+1. Train Configuration:
+
+    + After you download training dataset, just run `train.py` to train our model.
+    
+
+1. Test Configuration:
+
+    + After you obtained all the pre-trained model and testing dataset, just run `test_produce_maps.py` to generate the final prediction map, then run `test_evaluation_maps.py` to obtain the final quantitative results. 
+    
+    
+### 3.2 Evaluating your trained model:
+
+Our evaluation is implemented by python, please refer to `test_evaluation_maps.py`
+
+
+**[⬆ back to top](#0-preface)**
 
 
 
