@@ -53,17 +53,17 @@ The training and testing experiments are conducted using [PyTorch](https://githu
     
     + Installing necessary packages: `pip install -r requirements.txt`.
 
-1. Downloading necessary data:
+1. Obtatining necessary data and weights:
 
     + To obtain the necessary training and testing data, please contact zhaozhuang@njust.edu.cn and move it into `./Data/`.
    
-    + To obtain the  pretrained weights, please contact zhaozhuang@njust.edu.cn and move it into `./Checkpoint/SPNet/`.
+    + To obtain the pretrained weights, please contact zhaozhuang@njust.edu.cn and move it into `./Checkpoint/SPNet/`.
 
     
 
 1. Train Configuration:
 
-    + After you download training dataset, just run `train.py` to train our model.
+    + After you obtained training dataset, just run `train.py` to train our model.
     
 
 1. Test Configuration:
