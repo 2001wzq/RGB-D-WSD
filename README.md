@@ -18,7 +18,7 @@ Automatic weld seam detection is a cornerstone of intelligent manufacturing, yet
 ### 2.2. Framework Overview
 
 <p align="center">
-    <img src="imgs/Framework.png"/> <br />
+    <img src="imgs/Framework.jpg"/> <br />
     <em> 
     Figure 1: Overview of our geometry-aware automatic weld seam detection method.
     </em>
