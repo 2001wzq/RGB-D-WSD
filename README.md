@@ -62,7 +62,7 @@ The training and testing experiments are conducted using [PyTorch](https://githu
 
     + To obtain the necessary training and testing data, please contact zhaozhuang@njust.edu.cn and move it into `./Data/`.
    
-    + To obtain the pretrained weights, please contact zhaozhuang@njust.edu.cn and move it into `./Checkpoint/SPNet/`.
+    + To obtain the pretrained weights, please contact zhaozhuang@njust.edu.cn and move it into `./Checkpoint/RGBDNet/`.
 
     
 
